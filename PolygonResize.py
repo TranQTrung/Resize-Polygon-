@@ -82,7 +82,7 @@ def GetEnlargedPolygon(old_points, offset):
     
     return np.array(new_points)
 
-# test
+# Test
 old_points = np.array([[244, 152], [420, 191], [424, 328], [157, 358]])
 
 print("Input:")
